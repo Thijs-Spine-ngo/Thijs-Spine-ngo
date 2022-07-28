@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Thijs-Spine-ngo
+- 👀 I’m interested in making stuff
+- 🌱 I’m currently learning React
